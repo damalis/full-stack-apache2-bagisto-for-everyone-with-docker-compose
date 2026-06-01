@@ -2,7 +2,7 @@
 
 If You want to build a website with Bagisto at short time;
 
-#### Full stack Nginx Bagisto:
+#### Full stack Apache2 Bagisto:
 [![Bagisto](https://img.shields.io/badge/eCommerce-Bagisto-0141FF?style=flat&logo=bagisto&logoColor=white)](https://bagisto.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
